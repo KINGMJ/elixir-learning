@@ -1,2 +1,2 @@
-# elixir-learning
+# phoenix-translation
 Learning Elixir&amp;Phoenix
