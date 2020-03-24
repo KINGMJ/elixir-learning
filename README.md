@@ -1,4 +1,4 @@
-# 📚 elixir-learning
+# elixir-learning
 Learning Elixir&amp;Phoenix
 
 ## 📁 branches
