@@ -1,2 +1,2 @@
-# elixir-learning
+# elixir-practice
 Learning Elixir&amp;Phoenix
