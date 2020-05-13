@@ -2,13 +2,13 @@
 phoenix 的练习项目
 
 
-phoenix安装
+## phoenix安装
 
 ```
 mix archive.install hex phx_new 1.5.1
 ```
 
-postgresql安装
+## postgresql安装
 
 ```
 # 安装
@@ -23,6 +23,6 @@ sudo -u postgres psql
 ```
 
 
-https://help.ubuntu.com/community/PostgreSQL
-
-http://www.ruanyifeng.com/blog/2013/12/getting_started_with_postgresql.html
+> 参考
+> https://help.ubuntu.com/community/PostgreSQL
+> http://www.ruanyifeng.com/blog/2013/12/getting_started_with_postgresql.html
