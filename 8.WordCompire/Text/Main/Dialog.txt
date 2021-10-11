@@ -1,0 +1,14 @@
+セーブしますか？=您要保存吗？
+ロードしますか？=您要加载吗？
+このポイントに移動しますか=您要移动到这里吗
+作成しますか？=Do you want to create?
+作成しますか=Do you want to create?
+データを読込みますか=Do you want to read the data?
+データを消去しますか=Do you want to erase the data?
+ハウジングを終了しますか=Are you sure you want to exit the housing?
+Hシーンを終了しますか=H您想结束现场吗？
+一日を終了しますか？=你想结束一天吗？
+タイトルに戻りますか？=要返回标题菜单吗？
+終了しますか？=要结束游戏吗？
+確定=确定
+キャンセル=取消

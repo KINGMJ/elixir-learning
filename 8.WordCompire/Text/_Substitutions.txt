@@ -1,0 +1,7 @@
+プレイヤー=Player
+ツボミ=蕾
+商人=Trader
+シャン=？
+主人公=主角
+アスナ=Asuna
+紅・兵士=Aka Heishi
